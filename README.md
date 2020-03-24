@@ -1,8 +1,10 @@
-# 목적
+# Machine Learning
+
+## 목적
 - 스스로 공부
 - 2학년 2학기에 수강할 '인공지능' 과목을 더 잘 이해하기 위해
 
-# 목표
+## 목표
 - [ ] 목표하는 학습 기간: 2020.03.23 ~ 2020.06.30
 - [ ] 14개의 section에 포함되어 있는 Pythorch와 TensorFlow 실습 수행
 - [ ] 영어수업 기반으로 된 강의 --> 주요 단어 정리해가면서 학습
@@ -10,10 +12,10 @@
 (내용 모두를 이해한다기 보다는 전체적으로 '머신러닝이란 이런것이구나' 를 알아간다는 목표로 학습)
 
 
-# 참고자료
+## 참고자료
 - Andrew Ng교수님 Coursera강의 내용 정리 노트: <https://wikidocs.net/book/587>
 
-# 차례
+## 차례
 01. Introduction
 02. Linear Regression
 	- Univariate Linear Regressior
