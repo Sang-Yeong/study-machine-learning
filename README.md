@@ -37,3 +37,5 @@
 13. Large Scale Machine Learning
 14. Application Example: Photo OCR
 
+
+- [v] 표시: 다시 공부해야 하는 부분 명시
