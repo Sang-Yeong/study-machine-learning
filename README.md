@@ -25,6 +25,11 @@
 	- Reatures and Plynomial Regression
 	- Computing Parameters Analytically
 03. Logistic Regression
+	- Hyphothesis Representation
+	- Decision Boundary
+	- Cost Function & Gradient Descent
+	- Advanced Optimization
+	- Multi-Class Classificaion
 04. Regularization
 05. Neural Networks
 06. Advice for Applying Machine Learning
