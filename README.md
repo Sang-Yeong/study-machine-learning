@@ -31,6 +31,9 @@
 	- Advanced Optimization
 	- Multi-Class Classificaion
 04. Regularization
+	- Cost Function
+	- Regularized Linear Regression
+	- Regularized Logistic Regression
 05. Neural Networks
 06. Advice for Applying Machine Learning
 07. Machine Learing System Design
