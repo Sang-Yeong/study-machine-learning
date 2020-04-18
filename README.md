@@ -35,6 +35,11 @@
 	- Regularized Linear Regression
 	- Regularized Logistic Regression
 05. Neural Networks
+	- Model Representation
+	- Cost Function
+	- Back-Propagation Algorithm 1
+	- Back-Propagation Algorithm 2
+	- Implementation Notes
 06. Advice for Applying Machine Learning
 07. Machine Learing System Design
 08. Support Vector Machines
